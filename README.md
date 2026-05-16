@@ -6,8 +6,7 @@
 
 **A dark, minimal personal portfolio for a Frontend Developer.**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-hermitxxx.github.io-dc2626?style=for-the-badge)](https://hermitxxx.github.io/portfolio-hermit/)
-[![Personal Site](https://img.shields.io/badge/🧑‍💻_Website-thehermit.tech-dc2626?style=for-the-badge)](https://thehermit.tech)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-hermitxxx.github.io-dc2626?style=for-the-badge)]([https://hermitxxx.github.io/portfolio-hermit/](https://hermitxxxdev.github.io/portfolio-template/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hermitdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermitdev/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-portfolio--hermit-181717?style=for-the-badge&logo=github)](https://github.com/Hermitxxx/portfolio-hermit)
 [![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Hermitxxx/portfolio-hermit)
@@ -116,8 +115,7 @@ portfolio-hermit/
 | | Link |
 |---|---|
 | 🌐 **Live Portfolio** | [hermitxxx.github.io/portfolio-hermit](https://hermitxxx.github.io/portfolio-hermit/) |
-| 🧑‍💻 **Personal Website** | [thehermit.tech](https://thehermit.tech) |
-| 💻 **GitHub Repository** | [github.com/Hermitxxx/portfolio-hermit](https://github.com/Hermitxxx/portfolio-hermit) |
+| 💻 **GitHub Repository** | [github.com/Hermitxxx/portfolio-hermit]([https://github.com/Hermitxxx/portfolio-hermit](https://github.com/hermitxxxdev/portfolio-template)) |
 | 🐙 **GitHub Profile** | [github.com/Hermitxxx](https://github.com/Hermitxxx) |
 | 💼 **LinkedIn** | [linkedin.com/in/hermitdev](https://www.linkedin.com/in/hermitdev/) |
 | ✈️ **Telegram** | [t.me/gabimaru_op](https://t.me/gabimaru_op) |
